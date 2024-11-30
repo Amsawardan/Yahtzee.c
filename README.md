@@ -2,20 +2,20 @@
 Implementing a Two-Player Yahtzee Game in C programming
 How to Play the Game
 
-Clone the Repository:
+**Clone the Repository** 
 Download or clone the repository and extract the ZIP file to your desired location.
 
-Run the Game:
+**Run the Game**
 Compile and run the .c file using your preferred C development environment.
 
-System Requirements
+**System Requirements**
 The game can run on any operating system with a functional C compiler.
 
-What is Yahtzee?
+**What is Yahtzee?**
 
 Yahtzee is a classic dice game where players aim to score points by rolling five dice to achieve specific combinations. The game consists of 13 rounds, with players rolling the dice up to three times per round. After each roll, players decide which dice to keep and which to re-roll.
 
-Scoring Categories
+**Scoring Categories**
 Ones, Twos, Threes, Fours, Fives, Sixes: Sum of dice showing the chosen number.
 Three of a Kind: Sum of all dice if at least three are the same.
 Four of a Kind: Sum of all dice if at least four are the same.
@@ -38,5 +38,5 @@ After the third roll (or when players decide to stop re-rolling), the scores are
 Winning the Game
 After 13 rounds, the player with the highest total score wins.
 
-Enjoy the game, and may the best player win!
+**Enjoy the game, and may the best player win!**
 

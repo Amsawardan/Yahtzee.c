@@ -1,6 +1,7 @@
 # Yahtzee.c
 Implementing a Two-Player Yahtzee Game in C programming
-How to Play the Game
+
+_____**How to Play the Game**_____
 
 **Clone the Repository** 
 
